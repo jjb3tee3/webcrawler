@@ -1,7 +1,7 @@
 Web Crawler
 ==========
 
-A web crawler developed using Scrapy 0.22.0 to get the scripts linked to in the Alexa top websites. Currently this just grabs the src value of <script> tags in the <head>.
+A web crawler developed using Scrapy 0.22.0 to get the scripts linked to in the Alexa top websites. Currently this just grabs the src value of ```<script>``` tags in the ```<head>```.
 
 This information will be collated anonymously and analysed to determine the most common scripts linked to from CDNs.
 
