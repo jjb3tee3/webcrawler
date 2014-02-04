@@ -17,10 +17,11 @@ Usage
 scrapy crawl webcrawler -o items.json -t json
 ```
 
+
 Version History
 ===============
 
-<b>V0.1</b> - February 4th 2014
+*V0.1* - February 4th 2014
 
-	o Added simple crawler to grab and store src values from script tags.
-	o Updated items.py with correct fields.
+- Added simple crawler to grab and store src values from script tags.
+- Updated items.py with correct fields.
